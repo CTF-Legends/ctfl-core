@@ -31,8 +31,8 @@ The official release will be announced once development is finalized. Stay tuned
 ## 📢 Stay Connected
 Join our community and stay up-to-date with the latest news:
 - 💬 [Discord Server](https://discord.gg/JsBVMbs5gF)
-- 📰 [Website](example.com) *(Coming Soon)*
-- 📝 [Documentation](example.com) *(Work in Progress)*
+- 📰 [Website](https://example.com) *(Coming Soon)*
+- 📝 [Documentation](https://example.com) *(Work in Progress)*
 
 ---
 
