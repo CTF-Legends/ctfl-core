@@ -3,10 +3,10 @@
 ## Supported Versions
 The following versions of CTFL Core are actively receiving security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| > 1.0   | :white_check_mark: |
-| < 1.0   | :x:                |
+| Version       | Supported        |
+| ------------  |------------------|
+| 1.0.x & newer | ✅ Yes          |
+| Older than 1.0| ❌ No           |
 
 ## Reporting a Vulnerability
 Security is a top priority for us. If you discover a vulnerability in CTFL Core, please follow these steps:
